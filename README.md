@@ -1,3 +1,4 @@
+# SpringBoot整合dubbo示例
 ## 一、定义API（API模块）
 ### 1. 定义api
 ```java
@@ -158,7 +159,3 @@ public class Main {
 
 }
 ```
-
-## 完整代码参考
-
-**https://github.com/liuyi01/springboot-dubbo-demo**
